@@ -1,2 +1,2 @@
 # transitapp
-python flask app showing active transit data
+straightorward flask app showing active transit data via gtfs_realtime_pb2 and load_dotenv
